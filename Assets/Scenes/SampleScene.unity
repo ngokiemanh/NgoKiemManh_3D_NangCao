@@ -724,7 +724,7 @@ MonoBehaviour:
   canvasHome: {fileID: 1709315673}
   canvasHowToPlay: {fileID: 1397222180}
   levelPrefabs:
-  - {fileID: 4735004198785599769, guid: 25f6e68c6937521488f73bf76fe385a9, type: 3}
+  - {fileID: 4685513306341926720, guid: 25f6e68c6937521488f73bf76fe385a9, type: 3}
   - {fileID: 4153680829010194031, guid: d45b2d6148e430443b0044f4dc487b43, type: 3}
   - {fileID: 8071721482040333988, guid: 9466cc55dc5d88c40a9c5d8297198a9d, type: 3}
   - {fileID: 7975913735659838616, guid: 1dac9cb3ab549cb45a5f372862e98fac, type: 3}
